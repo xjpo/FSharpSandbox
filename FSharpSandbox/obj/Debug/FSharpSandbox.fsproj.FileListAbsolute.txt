@@ -1,0 +1,8 @@
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharpSandbox.exe.config
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharpSandbox.XML
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharpSandbox.exe
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharpSandbox.pdb
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharp.Core.dll
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\bin\Debug\FSharp.Core.xml
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\obj\Debug\FSharpSandbox.exe
+c:\users\julien\documents\visual studio 2013\Projects\FSharpSandbox\FSharpSandbox\obj\Debug\FSharpSandbox.pdb
