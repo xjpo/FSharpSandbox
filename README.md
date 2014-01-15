@@ -1,0 +1,4 @@
+FSharpSandbox
+=============
+
+Playing with F#
